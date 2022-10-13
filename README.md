@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Young-prof. My Real name is Tekenatei Frankyn.
-- 👀 I’m actually interested in ML and AI, but currently, Am a Junior Front End Developer.
+- 👀 I’m insterested in Front End Web Development.
 - 🌱 I’m currently Enrolled in a one year intensive Software Engineering Program offered by ALX Africa, where i undergo a very rigorous training.
 - 💞️ As an Entry Level Developer, I’m looking forward to collaborate on really interesting and Mindblowing projects that would solve real life problems, even as i learn more on the process.
 - 📫 How to reach me ...
