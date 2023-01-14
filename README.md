@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Weather-App-Project](http://127.0.0.1:5500/index.html)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I'm currently running a **One year Software Engineering program with ALX Africa**
 
 - 👯 I’m looking to collaborate on **really interesting and Mind blowing projects that would solve real life problems, even as I learn more on the process.**
 
